@@ -1,0 +1,7 @@
+c:\users\ng146468\source\repos\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+c:\users\ng146468\source\repos\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+c:\users\ng146468\source\repos\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+c:\users\ng146468\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.csprojAssemblyReference.cache
+c:\users\ng146468\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.CoreCompileInputs.cache
+c:\users\ng146468\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+c:\users\ng146468\source\repos\MadLibs\MadLibs\obj\Debug\MadLibs.pdb

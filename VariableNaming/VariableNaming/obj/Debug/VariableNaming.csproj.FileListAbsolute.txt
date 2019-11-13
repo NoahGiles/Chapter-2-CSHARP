@@ -1,0 +1,7 @@
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-2\VariableNaming\VariableNaming\bin\Debug\VariableNaming.exe.config
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-2\VariableNaming\VariableNaming\bin\Debug\VariableNaming.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-2\VariableNaming\VariableNaming\bin\Debug\VariableNaming.pdb
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-2\VariableNaming\VariableNaming\obj\Debug\VariableNaming.csprojAssemblyReference.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-2\VariableNaming\VariableNaming\obj\Debug\VariableNaming.csproj.CoreCompileInputs.cache
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-2\VariableNaming\VariableNaming\obj\Debug\VariableNaming.exe
+C:\Users\ng146468\Desktop\C-Sharp-Projects\Chapter-2\VariableNaming\VariableNaming\obj\Debug\VariableNaming.pdb
